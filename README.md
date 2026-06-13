@@ -19,6 +19,7 @@ Building scalable, resilient financial systems with modern full-stack and cloud-
 └─────────────────────────────────────────────────────────┘
 ```
 
+
 ---
 
 ## 💡 Areas of Interest
@@ -27,6 +28,7 @@ Building scalable, resilient financial systems with modern full-stack and cloud-
 - 🏗️ **Clean Architecture** - Maintainable, testable code
 - 👨‍💼 **Developer Experience** - Tools and practices that accelerate development
 - 💰 **FinTech** - Financial systems and modern banking infrastructure
+- 🤖 **Agentic AI** - Learning and building autonomous AI agents
 
 ---
 - **Languages**: Python, Java, JavaScript, TypeScript, Go
@@ -37,7 +39,7 @@ Building scalable, resilient financial systems with modern full-stack and cloud-
 
 📬 **Open to collaborating on open-source projects!**
 
-If you have interesting ideas or projects in distributed systems, microservices, or financial technology, feel free to reach out!
+If you have interesting ideas or projects in distributed systems, microservices, financial technology, or agentic AI, feel free to reach out!
 
 ---
 
@@ -47,3 +49,4 @@ If you have interesting ideas or projects in distributed systems, microservices,
 ---
 
 *Last Updated: June 13, 2026*
+
