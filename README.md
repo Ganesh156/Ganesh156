@@ -1,4 +1,13 @@
-### Hi there 👋
+👨‍💻 Software Engineer II @ JPMorgan Chase
 
-I am Ganesh, Currently a Software Engineer at Foxsense Innovations. I enjoy building the software and learning new tech. I have experience in ReactJs, NextJs, NestJs, PostgreSQL, AWS serverless,  Nodejs, etc..
+Building scalable, resilient financial systems with modern full-stack and cloud-native technologies.
 
+🔧 Tech Stack
+• Frontend: React, Micro Frontends
+• Backend: Spring Boot, Microservices
+• Infrastructure: Kubernetes, Docker
+• Observability: Splunk
+
+💡 Passionate about distributed systems, clean architecture, and developer experience.
+
+📬 Open to collaborating on open-source projects!
