@@ -5,20 +5,6 @@
 
 Building scalable, resilient financial systems with modern full-stack and cloud-native technologies.
 
----
-
-## 📊 Repository Stats
-
-| Metric | Value |
-|--------|-------|
-| **Stars** | ⭐ 1 |
-| **Watchers** | 👀 1 |
-| **Repository Size** | 📦 13 KB |
-| **Created** | 📅 August 11, 2022 |
-| **Last Updated** | 🕐 Today |
-
----
-
 ## 🔧 Tech Stack
 
 ```
