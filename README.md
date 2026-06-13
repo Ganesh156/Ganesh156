@@ -43,7 +43,7 @@ If you have interesting ideas or projects in distributed systems, microservices,
 
 ## 📞 Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/ganesh156)
+- 💼 [LinkedIn]([https://linkedin.com/in/ganesh156](https://www.linkedin.com/in/ganesh-hegde-2baaa6155/))
 ---
 
 *Last Updated: June 13, 2026*
