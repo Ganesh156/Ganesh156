@@ -1,52 +1,39 @@
-# 👨‍💻 Ganesh Hegde - Software Engineer II @ JPMorgan Chase
+# 👋 Ganesh Hegde
+### Software Engineer II @ JPMorgan Chase
 
-[![GitHub followers](https://img.shields.io/github/followers/Ganesh156?style=social)](https://github.com/Ganesh156)
-[![GitHub stars](https://img.shields.io/github/stars/Ganesh156/Ganesh156?style=flat-square)](https://github.com/Ganesh156)
+> Building scalable, resilient financial systems with modern full-stack and cloud-native technologies.
 
-Building scalable, resilient financial systems with modern full-stack and cloud-native technologies.
+[![GitHub followers](https://img.shields.io/github/followers/Ganesh156?style=flat-square&logo=github)](https://github.com/Ganesh156)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ganesh-hegde-2baaa6155/)
+
+---
 
 ## 🔧 Tech Stack
 
-```
-┌─────────────────────────────────────────────────────────┐
-│ 🎨 Frontend    │ React, Micro Frontends                │
-├─────────────────────────────────────────────────────────┤
-│ ⚙️  Backend     │ Spring Boot, Microservices            │
-├─────────────────────────────────────────────────────────┤
-│ 🐳 Infrastructure │ Kubernetes, Docker                   │
-├─────────────────────────────────────────────────────────┤
-│ 📈 Observability │ Splunk                                │
-└─────────────────────────────────────────────────────────┘
-```
-
+| Layer | Technologies |
+|---|---|
+| 🎨 **Frontend** | React · Micro Frontends |
+| ⚙️ **Backend** | Spring Boot · Microservices |
+| 🐳 **Infrastructure** | Kubernetes · Docker |
+| 📊 **Observability** | Splunk |
+| 💻 **Languages** | Java · JavaScript · TypeScript · Python |
 
 ---
 
-## 💡 Areas of Interest
+## 💡 What I'm Into
 
-- 🔄 **Distributed Systems** - Building fault-tolerant systems at scale
-- 🏗️ **Clean Architecture** - Maintainable, testable code
-- 👨‍💼 **Developer Experience** - Tools and practices that accelerate development
-- 💰 **FinTech** - Financial systems and modern banking infrastructure
-- 🤖 **Agentic AI** - Learning and building autonomous AI agents
-
----
-- **Languages**: Python, Java, JavaScript, TypeScript
+- 🔄 **Distributed Systems** — Fault-tolerant architecture at scale
+- 🏗️ **Clean Architecture** — Maintainable, testable code
+- 🚀 **Developer Experience** — Tools and practices that accelerate teams
+- 💰 **FinTech** — Modern banking and financial infrastructure
+- 🤖 **Agentic AI** — Learning and building autonomous AI agents
 
 ---
 
 ## 🤝 Open to Collaboration
 
-📬 **Open to collaborating on open-source projects!**
-
-If you have interesting ideas or projects in distributed systems, microservices, financial technology, or agentic AI, feel free to reach out!
+If you're working on something interesting in **distributed systems**, **microservices**, **fintech**, or **agentic AI** — let's connect!
 
 ---
 
-## 📞 Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/ganesh-hegde-2baaa6155/)
----
-
-*Last Updated: June 13, 2026*
-
+*Last updated: June 2026*
