@@ -31,7 +31,7 @@ Building scalable, resilient financial systems with modern full-stack and cloud-
 - 🤖 **Agentic AI** - Learning and building autonomous AI agents
 
 ---
-- **Languages**: Python, Java, JavaScript, TypeScript, Go
+- **Languages**: Python, Java, JavaScript, TypeScript
 
 ---
 
